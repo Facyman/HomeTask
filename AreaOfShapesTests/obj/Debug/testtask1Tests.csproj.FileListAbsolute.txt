@@ -1,0 +1,11 @@
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\bin\Debug\testtask1Tests.dll
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\bin\Debug\testtask1Tests.pdb
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\bin\Debug\testtask1.dll
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\bin\Debug\testtask1.pdb
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\obj\Debug\testtask1Tests.csprojAssemblyReference.cache
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\obj\Debug\testtask1Tests.csproj.CoreCompileInputs.cache
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\obj\Debug\testtask1Tests.csproj.CopyComplete
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\obj\Debug\testtask1Tests.dll
+C:\Users\blood\Documents\Visual Studio 2015\Projects\testtask1\testtask1Tests\obj\Debug\testtask1Tests.pdb
